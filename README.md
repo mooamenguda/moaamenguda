@@ -1,10 +1,7 @@
 # Hi I'm Moaamen 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-moaamen--guda-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moaamen-guda-8331a4357/)](https://www.linkedin.com/in/moaamen-guda-8331a4357?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![Medium Badge](https://img.shields.io/badge/-@moemen--goda-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@moemen-goda)](https://medium.com/@moemen-goda)
-[![Portfolio Badge](https://img.shields.io/badge/-moemen.portfolio-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://moemen-goda.github.io)](https://moemen-goda.github.io)
-[![Twitter Badge](https://img.shields.io/badge/-@moemen--goda-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/moemen-goda)](https://twitter.com/moemen-goda)
-[![Gmail Badge](https://img.shields.io/badge/-moemen.goda-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:moemen.goda@gmail.com)](mailto:moemen.goda@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@moaamen__guda-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/moaamen_guda/)](https://www.instagram.com/moaamen_guda?igsh=MWtjZXFwbm04a3hldw%3D%3D&utm_source=qr)
 
 Welcome to my profile! I'm a passionate **Data Analyst** with expertise in transforming raw data into actionable insights. I specialize in data visualization, statistical analysis, and business intelligence. I love exploring datasets, uncovering hidden patterns, and helping businesses make data-driven decisions. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/moaamen-guda-8331a4357?utm_source=share_via&utm_content=profile&utm_medium=member_ios)!
 
@@ -25,24 +22,6 @@ Welcome to my profile! I'm a passionate **Data Analyst** with expertise in trans
 - ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat)
 - ![Seaborn](https://img.shields.io/badge/-Seaborn-4c8dbe?style=flat)
 - ![Plotly](https://img.shields.io/badge/-Plotly-3f4f75?style=flat&logo=plotly&logoColor=white)
-
-**Databases:**
-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)
-
----
-
-## 📈 Featured Projects
-
-<div align="center">
-
-### Data Analysis Showcase :chart_with_upwards_trend: :bar_chart:
-
-![Projects Badge](https://img.shields.io/badge/Active%20Projects-5-brightgreen?labelColor=7D898B)
-![Total Datasets Analyzed](https://img.shields.io/badge/Datasets%20Analyzed-15-48D6FF?labelColor=7D898B)
-![Analysis Reports](https://img.shields.io/badge/Reports%20Generated-20-AC6EFF?labelColor=7D898B)
-
-</div>
 
 ---
 
@@ -74,16 +53,7 @@ I'm always interested in discussing:
 - Collaboration opportunities on data projects
 - Sharing insights from interesting datasets
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/moaamen-guda-8331a4357?utm_source=share_via&utm_content=profile&utm_medium=member_ios) or [Email](mailto:moemen.goda@gmail.com)!
-
----
-
-## 📚 Resources I Recommend
-
-- [Data Analysis Best Practices](https://medium.com/@moemen-goda)
-- [SQL for Data Analysis](https://www.sqlzoo.net/)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- [Tableau Public Gallery](https://public.tableau.com/)
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/moaamen-guda-8331a4357?utm_source=share_via&utm_content=profile&utm_medium=member_ios) or [Instagram](https://www.instagram.com/moaamen_guda?igsh=MWtjZXFwbm04a3hldw%3D%3D&utm_source=qr)!
 
 ---
 
